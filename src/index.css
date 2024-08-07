@@ -37,7 +37,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #3b3838;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -72,5 +72,5 @@ li {
 
 img {
   display: block;
-  max-width: 100%;
+  width: 100%;
 }
