@@ -15,7 +15,6 @@ function App() {
 }
 export default App;
      {error && <b>Ooops ... something went wrong!</b>}
-     {loading && <Loader/>}
      <ContactList />
    </div>
  );
