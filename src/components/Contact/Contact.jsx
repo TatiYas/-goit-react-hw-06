@@ -24,7 +24,7 @@ export const Contact = ({ item: { id, name, number } }) => {
         </div>
       </div>
 
-      <button className={css.btn} onClick={handleDelete} type="submit">
+      <button className={s.btn} onClick={handleDelete} type="submit">
         Delete
       </button>
     </>
